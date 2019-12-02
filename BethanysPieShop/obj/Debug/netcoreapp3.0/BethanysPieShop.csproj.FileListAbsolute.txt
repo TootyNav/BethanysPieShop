@@ -139,3 +139,4 @@ C:\Users\navid\source\repos\BethanysPieShop2\BethanysPieShop\obj\Debug\netcoreap
 C:\Users\navid\source\repos\BethanysPieShop2\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\navid\source\repos\BethanysPieShop2\BethanysPieShop\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\navid\source\repos\BethanysPieShop2\BethanysPieShop\obj\Debug\netcoreapp3.0\BethanysPieShop.Views.pdb
+C:\Users\navid\source\repos\BethanysPieShop2\BethanysPieShop\bin\Debug\netcoreapp3.0\libman.json
