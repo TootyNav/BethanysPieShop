@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\navid.shiraj\\Source\\Repos\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {}
+    "C:\\Users\\navid\\Source\\Repos\\BethanysPieShop2\\BethanysPieShop\\BethanysPieShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\navid.shiraj\\Source\\Repos\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {
+    "C:\\Users\\navid\\Source\\Repos\\BethanysPieShop2\\BethanysPieShop\\BethanysPieShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\navid.shiraj\\Source\\Repos\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+        "projectUniqueName": "C:\\Users\\navid\\Source\\Repos\\BethanysPieShop2\\BethanysPieShop\\BethanysPieShop.csproj",
         "projectName": "BethanysPieShop",
-        "projectPath": "C:\\Users\\navid.shiraj\\Source\\Repos\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
-        "packagesPath": "C:\\Users\\navid.shiraj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\navid.shiraj\\Source\\Repos\\BethanysPieShop\\BethanysPieShop\\obj\\",
+        "projectPath": "C:\\Users\\navid\\Source\\Repos\\BethanysPieShop2\\BethanysPieShop\\BethanysPieShop.csproj",
+        "packagesPath": "C:\\Users\\navid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\navid\\Source\\Repos\\BethanysPieShop2\\BethanysPieShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\navid.shiraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\navid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
