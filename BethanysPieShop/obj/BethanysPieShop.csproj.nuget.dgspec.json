@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\navid\\source\\repos\\BethanysPieShop2\\BethanysPieShop\\BethanysPieShop.csproj": {}
+    "C:\\Users\\navid\\Source\\Repos\\BethanysPieShop2\\BethanysPieShop\\BethanysPieShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\navid\\source\\repos\\BethanysPieShop2\\BethanysPieShop\\BethanysPieShop.csproj": {
+    "C:\\Users\\navid\\Source\\Repos\\BethanysPieShop2\\BethanysPieShop\\BethanysPieShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\navid\\source\\repos\\BethanysPieShop2\\BethanysPieShop\\BethanysPieShop.csproj",
+        "projectUniqueName": "C:\\Users\\navid\\Source\\Repos\\BethanysPieShop2\\BethanysPieShop\\BethanysPieShop.csproj",
         "projectName": "BethanysPieShop",
-        "projectPath": "C:\\Users\\navid\\source\\repos\\BethanysPieShop2\\BethanysPieShop\\BethanysPieShop.csproj",
+        "projectPath": "C:\\Users\\navid\\Source\\Repos\\BethanysPieShop2\\BethanysPieShop\\BethanysPieShop.csproj",
         "packagesPath": "C:\\Users\\navid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\navid\\source\\repos\\BethanysPieShop2\\BethanysPieShop\\obj\\",
+        "outputPath": "C:\\Users\\navid\\Source\\Repos\\BethanysPieShop2\\BethanysPieShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
